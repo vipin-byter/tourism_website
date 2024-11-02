@@ -8,9 +8,6 @@ ADVENTURE - "Where Every Journey Begins"
  -  We believe that every journey is an opportunity to learn, grow, and connect with people and places around the globe.
  -  This is a simple website
  -  Pure HTML, CSS, JavaScript used
- 
- ## 🔗 To see the project
-[Tourism website](https://simple-tourism-organization.netlify.app/)
 
 
 ## 👓 Preview
